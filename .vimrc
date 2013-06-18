@@ -1,0 +1,9 @@
+set smartindent
+set number
+set shiftwidth=2
+"source /home/vaibhav/.vim/dwn-vert.vim
+source /home/vaibhav/.vim/python.vim
+source /home/vaibhav/.vim/indent/javascript.vim
+syntax enable
+set background=light
+"colorscheme solarized
